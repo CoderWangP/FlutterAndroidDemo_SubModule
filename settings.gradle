@@ -1,0 +1,2 @@
+rootProject.name = "FlutterAndroidDemo_SubModule"
+include ':app'
